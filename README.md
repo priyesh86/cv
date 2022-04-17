@@ -1,31 +1,39 @@
 # Priyesh Shah CV
 
-Updated Dec 2021
+Updated April 2022
 
 ## Summary
 
-Full-stack engineer with 5 years' experience, based in Bristol, UK.
+Full-stack engineer with over 5 years' experience, based in Bristol, UK.
 
 I like learning new things, strive for simplicity in my code and believe strongly that good communication is the key to developing great products.
 
 ## Skills
 
-| Area       | Skills                                                                                |
-| ---------- | ------------------------------------------------------------------------------------- |
-| Languages  | TypeScript, JavaScript, HTML, CSS, SASS/SCSS, SQL, R, PHP                             |
-| Frameworks | React, React Native, Redux, Next.js, Express, jQuery, Bootstrap, Bulma, D3.js (basic) |
-| Testing    | Jest, Mocha, Chai, Sinon, Enzyme                                                      |
-| Server     | Node.js, Nginx                                                                        |
-| Database   | PostgreSQL, Knex/Bookshelf (ORM), Sqitch (migrations), MongoDB, Mongoose, Firebase    |
-| DevOps     | CircleCI, Heroku, AWS (basic), Docker (basic), Terraform (basic)                      |
-| Tools      | Git, Github/Zenhub, Storybook, Webpack, Yarn/NPM, Datadog, VSCode, HubSpot            |
-| Processes  | Agile Scrum, pair programming, tech support                                           |
+| Area       | Skills                                                                                      |
+| ---------- | ------------------------------------------------------------------------------------------- |
+| Languages  | TypeScript, JavaScript, HTML, CSS, SASS/SCSS, SQL, R                                        |
+| Frameworks | React, React Native, Redux, Next.js, Bootstrap, Bulma                                       |
+| Testing    | Jest, Mocha, Chai, Sinon, Enzyme                                                            |
+| Server     | Node.js, Express, Restify, Nginx                                                            |
+| Database   | PostgreSQL, Knex/Bookshelf, Sqitch, MongoDB, Mongoose, Firebase                             |
+| DevOps     | CircleCI, Heroku, AWS (basic), Docker (basic), Terraform (basic)                            |
+| Tools      | Git, Github/Bitbucket, Zenhub, JIRA, Storybook, Webpack, Yarn/NPM, Datadog, VSCode, HubSpot |
+| Processes  | Agile Scrum, pair programming, tech support                                                 |
 
 ## Experience
 
+### Software Developer, [Moneyhub](https://www.moneyhub.com/)
+
+_February 2022 - Present_
+
+A Fintech working in the field of money management and open banking.
+
+Has a microservice architecture and uses predominantly a functional programming style.
+
 ### Web Application Developer, [TravelLocal](https://www.travellocal.com/)
 
-_October 2018 - present_
+_October 2018 - February 2022_
 
 A platform connecting travellers with travel agents, who are based in the destination countries. These agents then use their local expertise to build bespoke itineraries for the traveller.
 
@@ -48,8 +56,6 @@ The technology used includes TypeScript, React, Redux, Next.js, node.js, Jest, P
 #### Work I'm most proud of
 
 - Ran HTML and CSS workshops for non-engineers - mainly for marketing to be able to build emails in HubSpot. These sessions empowered colleagues to take on these tasks themselves and learn new skills. I found teaching to be a fun and rewarding experience.
-
-- As part of the Sustainability and Ethics internal task force, I am currently looking into the topic of carbon accounting and how best to measure the company's carbon emissions
 
 - Taking joint responsibility for the full lifecycle of delivering a major new feature: a text snippet tool that allows travel agents to create, manage and use text snippets in their messages to customers. We gathered requirements from stakeholders, used paper prototypes to test and iterate on designs and built the MVP under a feature flag. After positive feedback from a subset of agents, we released the feature and the metrics put in place to track its outcome show usage has been high and considerable agent time has been saved.
 
